@@ -1,0 +1,10 @@
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\bin\Debug\Mikro.exe.config
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\bin\Debug\Mikro.exe
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\bin\Debug\Mikro.pdb
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\obj\Debug\Mikro.csproj.AssemblyReference.cache
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\obj\Debug\Mikro.Form1.resources
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\obj\Debug\Mikro.Properties.Resources.resources
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\obj\Debug\Mikro.csproj.GenerateResource.cache
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\obj\Debug\Mikro.csproj.CoreCompileInputs.cache
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\obj\Debug\Mikro.exe
+C:\Users\Devran ŞEKER\Downloads\8086-istemci-main\Mikro\obj\Debug\Mikro.pdb
